@@ -212,4 +212,4 @@ hook.Add( "OnPlayerChangedTeam", "proF_Team_Change", function(ply)
 end)
 
 --AddComms({"Foundation", "Foundation Administration"})
-print("Norra's ???_commands.lua has loaded. -[script] n_misc")
+print("Norra's custom_job_commands.lua has loaded. -[script] n_misc")
